@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fortstar09" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Fortunate+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=40&center=true&vCenter=true&color=00CA06&&width=500&height=70&duration=3000&lines=Hello+There!+👋;+I'm+Fortunate+!;" />
 </h1>
 
 <h3 align="center">Frontend Dev | Mobile Dev | Software Engineer</h3>
@@ -42,7 +42,13 @@
 <hr/>
 
 <div align="center">
-  <h2>🌟 GitHub Stats</h2>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortstar09&layout=donut" alt="Fortunate's Top Languages">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=fortstar09&show_icons=true&theme=radical" alt="Fortunate's GitHub Stats">
+  <h2>📊 GitHub Stats</h2>
+    <div align='left'> </div>
 </div>
+
+![Fortunate's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fortstar09&show_icons=true&theme=dark#gh-dark-mode-only)[](https://github.com/motuncoded/github-readme-stats#gh-dark-mode-only)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fortstar09&theme=dark&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fortstar09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
